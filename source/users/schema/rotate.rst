@@ -45,7 +45,7 @@ Rotate object from toolbar
     1. `Select the object`_ which should be rotated.
     2. Select the icon |transform-rotate| from `toolbar`_ to rotate the object.
 
-.. |transform-rotate| image:: ../images/ico/16x16/transform-rotate.png
+.. |transform-rotate| image:: /_external/_images/_site-assets/user/ico/16x16/transform-rotate.png
 
 .. note::
 

@@ -16,14 +16,14 @@ To replace some `folio properties`_:
 
     1. `Search`_ the content which should identify the `folio`_ from which a property has to be changed.
 
-        .. figure:: ../../images/qet_search_menu_advanced_folio_tree.png
+        .. figure:: /_external/_images/en/qet_search/qet_search_menu_advanced_folio_tree.png
             :align: center
 
             Figure: QElectroTech search menu
 
     2. Press the **Folio** button to display the folio properties PopUp window.
 
-        .. figure:: ../../images/qet_search_menu_advanced_folio_prop.png
+        .. figure:: /_external/_images/en/qet_search/qet_search_menu_advanced_folio_prop.png
             :align: center
 
             Figure: QElectroTech folio properties replace PopUp windows
@@ -45,8 +45,8 @@ To replace some `folio properties`_:
     apply the action to the displayed `folio`_ at the `workspace`_. The buttons |go-top| and 
     |go-bottom| can be used to display the previous and next `folio`_ from the search result. 
 
-.. |go-bottom| image:: ../../images/ico/16x16/go-bottom.png
-.. |go-top| image:: ../../images/ico/16x16/go-top.png
+.. |go-bottom| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-bottom.png
+.. |go-top| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-top.png
 
 .. _element: ../../element/index.html
 .. _elements: ../../element/index.html

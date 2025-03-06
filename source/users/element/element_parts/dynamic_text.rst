@@ -13,8 +13,8 @@ Create dynamic text
 
 The text field can only be added to `workspace`_ from `toolbar`_.
 
-    1. Select the icon |icon_dynamic_text| from `toolbar`_ to add a dynamic text field.
-    2. Click the positional point from the text field in the `workspace`_.
+1. Select the icon |icon_dynamic_text| from `toolbar`_ to add a dynamic text field.
+2. Click the positional point from the text field in the `workspace`_.
 
 .. |icon_dynamic_text| image:: /_external/_images/_site-assets/user/ico/22x22/textfield.png
 

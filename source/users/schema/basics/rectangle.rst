@@ -17,8 +17,8 @@ The rectangle can only be added to the `workspace`_ by `toolbar`_.
     2. Click on the initial vertix from the rectangle.
     3. Click on the end vertex from the rectangle.
 
-.. |grid| image:: ../../images/ico/22x22/grid.png
-.. |rectangle| image:: ../../images/ico/22x22/rectangle.png
+.. |grid| image:: /_external/_images/_site-assets/user/ico/22x22/grid.png
+.. |rectangle| image:: /_external/_images/_site-assets/user/ico/22x22/rectangle.png
 
 .. note::
 
@@ -32,7 +32,7 @@ The edges and the internal area from the triangle can be costumized at QElectroT
     * The edges from a rectangle have the same properties as a `line`_.
     * The type of filling for closed primitive objects (rectangle, ellipse and closed polygon) are: **None**, **Solid line** and some types of grids.
 
-        .. figure:: ../../images/qet_close_primitive_object_filling.png
+        .. figure:: /_external/_images/en/qet_close/qet_close_primitive_object_filling.png
             :align: center
 
             Figure: QElectroTech Color selection PopUP window
@@ -54,7 +54,7 @@ Rectangle properties from menu bar
     1. Select one of the edges from the rectangle which should be edited.
     2. Select **Edit > Edit the selected object** menu item to display the rectangle properties PopUP window.
 
-        .. figure:: ../../images/qet_menu_edit_object.png
+        .. figure:: /_external/_images/en/qet_menu/qet_menu_edit_object.png
             :align: center
 
             Figure: QElectroTech edit menu
@@ -65,7 +65,7 @@ Rectangle properties by right click
     1. Right click on one of the edges from the rectangle which should be edited.
     2. Select the option **Edit the selected object** to display the rectangle properties PopUP window.
 
-.. figure:: ../../images/qet_object_right_click.png
+.. figure:: /_external/_images/en/qet_object_right_click.png
    :align: center
 
    Figure: QElectroTech rectangle selection PopUP window
@@ -75,7 +75,7 @@ Rectangle properties from selection properties panel
 
     1. Select one of the edges from the rectangle which should be edited and the properties from the rectangle will appear at `selection properties panel`_.
 
-.. figure:: ../../images/qet_close_primitive_object_prop.png
+.. figure:: /_external/_images/en/qet_close/qet_close_primitive_object_prop.png
    :align: center
 
    Figure: QElectroTech Rectangle properties panel

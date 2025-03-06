@@ -1,4 +1,4 @@
-.. _schema/replace/element_prop_replace
+.. _schema/replace/element_prop_replace:
 
 ========================
 Replace element property
@@ -17,14 +17,14 @@ To replace some `element properties`_:
 
     1. `Search`_ the property (Manufacturer, Lable, etc.) which identifies the `element`_ from which a property has to be changed.
 
-        .. figure:: ../../images/qet_search_menu_advanced_element_tree.png
+        .. figure:: /_external/_images/en/qet_search/qet_search_menu_advanced_element_tree.png
             :align: center
 
             Figure: QElectroTech search menu
 
     2. Press the **Element** button to display the element properties PopUp window.
 
-        .. figure:: ../../images/qet_search_menu_advanced_element_prop.png
+        .. figure:: /_external/_images/en/qet_search/qet_search_menu_advanced_element_prop.png
             :align: center
 
             Figure: QElectroTech element properties replace PopUp windows
@@ -46,8 +46,8 @@ To replace some `element properties`_:
     apply the action to the displayed `element`_ at the `workspace`_. The buttons |go-top| and 
     |go-bottom| can be used to display the previous and next `element`_ from the search result. 
 
-.. |go-bottom| image:: ../../images/ico/16x16/go-bottom.png
-.. |go-top| image:: ../../images/ico/16x16/go-top.png
+.. |go-bottom| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-bottom.png
+.. |go-top| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-top.png
 
 .. _element: ../../element/index.html
 .. _elements: ../../element/index.html

@@ -32,7 +32,7 @@ Delete object from toolbar
     1. `Select the object/s`_ which should be deleted.
     2. Select the icon |edit-delete| from `toolbar`_ to delete the object.
 
-.. |edit-delete| image:: ../images/ico/22x22/edit-delete.png
+.. |edit-delete| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-delete.png
 
 .. note::
 
@@ -44,7 +44,7 @@ Delete object by right click
     1. Right click on the object which should be deleted.
     2. Select the option **Delete** to delete the object.
 
-.. figure:: ../images/qet_element_right_click.png
+.. figure:: /_external/_images/en/qet_element/qet_element_right_click.png
    :align: center
 
    Figure: QElectroTech right click PopUP window
