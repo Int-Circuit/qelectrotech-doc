@@ -36,7 +36,7 @@ Cut object from toolbar
     1. `Select the object/s`_ which should be cut.
     2. Select the icon |edit-cut| from `toolbar`_ to cut the object.
 
-.. |edit-cut| image:: ../images/ico/22x22/edit-cut.png
+.. |edit-cut| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-cut.png
 
 .. note::
 
@@ -48,7 +48,7 @@ Cut object by right click
     1. Right click on the object which should be cut.
     2. Select the option **Cut** to cut the object.
 
-    .. figure:: ../images/qet_element_right_click.png
+    .. figure:: /_external/_images/en/qet_element/qet_element_right_click.png
         :align: center
 
         Figure: QElectroTech right click PopUP window

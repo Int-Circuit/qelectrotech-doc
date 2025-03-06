@@ -7,7 +7,7 @@ Working with pictures
 QElectroTech allows adding and working with pictures at `folios`_. The format from the picture 
 should be **PNG**, **JPG**, **JPEG**, **SVG** or **Bitmap**.
 
-.. figure:: ../images/qet_cover_arduino.png
+.. figure:: /_external/_images/en/qet_cover_arduino.png
         :align: center
 
         Figure: Cover Arduino project
@@ -20,7 +20,7 @@ Add picture
     3. Press **Open** button to add the picture.
     4. Left click on the `workspace`_ area where the picture should be placed.
     
-.. |insert-image| image:: ../images/ico/22x22/insert-image.png
+.. |insert-image| image:: /_external/_images/_site-assets/user/ico/22x22/insert-image.png
 
 .. note::
 
@@ -34,7 +34,7 @@ Resize picture
     3. Choose the size scale desired.
     4. Press **Apply** button to change the picture size.
 
-    .. figure:: ../images/qet_picture_edit_window.png
+    .. figure:: /_external/_images/en/qet_picture_edit_window.png
         :align: center
 
         Figure: QElectroTech picture editor

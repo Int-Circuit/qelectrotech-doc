@@ -18,8 +18,8 @@ The polygon can only be added to the `workspace`_ by `toolbar`_.
     2. Draw connected lines by simple click on the beginning and end point from each line.
     3. Doble Click on the end vertex/point from the polygon.
 
-.. |grid| image:: ../../images/ico/22x22/grid.png
-.. |polygon| image:: ../../images/ico/22x22/polygon.png
+.. |grid| image:: /_external/_images/_site-assets/user/ico/22x22/grid.png
+.. |polygon| image:: /_external/_images/_site-assets/user/ico/22x22/polygon.png
 
 .. note::
 
@@ -57,7 +57,7 @@ Polygon properties from menu bar
     1. Select one of the edges/lines from the polygon which should be edited.
     2. Select **Edit > Edit the selected object** menu item to display the polygon properties PopUP window.
 
-        .. figure:: ../../images/qet_menu_edit_object.png
+        .. figure:: /_external/_images/en/qet_menu/qet_menu_edit_object.png
             :align: center
 
             Figure: QElectroTech edit menu
@@ -68,7 +68,7 @@ Polygon properties by right click
     1. Right click on one of the edges/lines from the polygon which should be edited.
     2. Select the option **Edit the selected object** to display the polygon properties PopUP window.
 
-.. figure:: ../../images/qet_object_right_click.png
+.. figure:: /_external/_images/en/qet_object_right_click.png
    :align: center
 
    Figure: QElectroTech polygon selection PopUP window
@@ -78,7 +78,7 @@ Polygon properties from selection properties panel
 
     1. Select one of the edges/lines from the polygon which should be edited and the properties from the polygon will appear at `selection properties panel`_.
 
-.. figure:: ../../images/qet_polygon_prop.png
+.. figure:: /_external/_images/en/qet_polygon/qet_polygon_prop.png
    :align: center
 
    Figure: QElectroTech Polygon properties panel
@@ -105,7 +105,7 @@ Add new point to polygon
     1. Right click on the place from the edges/lines of the polygon where the new porint should be created.
     2. Select the option **Add a point** to create the new point at the polygon.
 
-        .. figure:: ../../images/qet_polygon_add_point.png
+        .. figure:: /_external/_images/en/qet_polygon/qet_polygon_add_point.png
             :align: center
 
             Figure: QElectroTech polygon selection PopUP window
@@ -116,7 +116,7 @@ Delete point to polygon
     1. Right click on the point from the polygon which should be deleted.
     2. Select the option **Delete this point** to delete the point from the polygon.
 
-        .. figure:: ../../images/qet_polygon_delete_point.png
+        .. figure:: /_external/_images/en/qet_polygon/qet_polygon_delete_point.png
             :align: center
 
             Figure: QElectroTech polygon selection PopUP window

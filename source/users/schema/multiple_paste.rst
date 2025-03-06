@@ -7,7 +7,7 @@ Multiple paste
 For making more eficient the schema creation, QElectroTech provides the feature multiple paste. This 
 feature allows `copying`_ and `pasting`_ one or more objects automating some object definition actions.
 
-.. figure:: ../images/qet_multiple_paste.png
+.. figure:: /_external/_images/en/qet_multiple/qet_multiple_paste.png
     :align: center
 
     Figure: QElectroTech multiple paste
@@ -25,14 +25,14 @@ To copy and paste multiple times one or more object:
     1. `Select the object/s`_ which should be copied.
     2. Right click on the selected object/s.
 
-        .. figure:: ../images/qet_element_right_click.png
+        .. figure:: /_external/_images/en/qet_element/qet_element_right_click.png
             :align: center
 
             Figure: QElectroTech element right click PopUP window
 
     3. Select the option **Multiple paste** to display the multiple paste PopUP window.
 
-        .. figure:: ../images/qet_multiple_paste_window.png
+        .. figure:: /_external/_images/en/qet_multiple/qet_multiple_paste_window.png
             :align: center
 
             Figure: QElectroTech multiple paste PopUP window

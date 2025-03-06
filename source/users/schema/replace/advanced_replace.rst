@@ -21,14 +21,14 @@ To replace text information from project objects:
     1. Press **advanced** button to display advanced replace PopUp window.
     2. Define QElectroTech object type from **Who** combobox (Ex.: `Element`_).
 
-        .. figure:: ../../images/qet_search_menu_advanced_replace_advanced_who.png
+        .. figure:: /_external/_images/en/qet_search/qet_search_menu_advanced_replace_advanced_who.png
             :align: center
 
             Figure: QElectroTech advanced replace PopUp window
 
     3. Define object property type from **What** combobox (Ex.: Manufacturer).
 
-        .. figure:: ../../images/qet_search_menu_advanced_replace_advanced_what.png
+        .. figure:: /_external/_images/en/qet_search/qet_search_menu_advanced_replace_advanced_what.png
             :align: center
 
             Figure: QElectroTech advanced replace PopUp window
@@ -36,7 +36,7 @@ To replace text information from project objects:
     4. Define the property value which should be replaced in the **Replace** text box (Ex.: SIEMENS).
     5. Define the new property value at the replace text box in the **By** text box (Ex.: SCHNEIDER).
 
-        .. figure:: ../../images/qet_search_menu_advanced_replace_advanced.png
+        .. figure:: /_external/_images/en/qet_search/qet_search_menu_advanced_replace_advanced.png
             :align: center
 
             Figure: QElectroTech advanced replace PopUp window
@@ -44,7 +44,7 @@ To replace text information from project objects:
     3. Press **OK** button to storage the desired replacing conditions.
     4. Filter in the object tree the `folios`_ where the action should be applied.
 
-        .. figure:: ../../images/qet_search_menu_advanced_folio_tree.png
+        .. figure:: /_external/_images/en/qet_search/qet_search_menu_advanced_folio_tree.png
             :align: center
 
             Figure: QElectroTech search menu element properties PopUP window
