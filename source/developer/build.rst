@@ -7,12 +7,12 @@
 Building QET from source
 =================================
 
-This section is for advanced users/contributors wanting to build and improve Qelectrotech (QET).
+This section is for users and contributors wanting to build and/or improve QElectroTech (QET).
 
 This guide assumes that you have forked the source repo and that your system has the Git VCS (Version Control System) configured to point to that fork. \
 If you need help to setup Git, please take a look at the `Git Documentation <https://git-scm.com/doc>`_.
 
-Before pushing code to the repo and creating a MR, please have a look at the `contribution guidelines <_developer/contributing>`_.
+Before pushing code to the repo and/or creating a MR, please have a look at the `contribution guidelines <_developer/contributing>`_.
 
 *************
 Prerequisites
