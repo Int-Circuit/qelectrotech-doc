@@ -33,8 +33,8 @@ on the object and using the corresponding keyboard shortcut.
 Define object layer from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object/s`_ which layer level should be defined.
-    2. Select **Edit** menu and the desired action.
+1. `Select the object/s`_ which layer level should be defined.
+2. Select **Edit** menu and the desired action.
 
 .. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
    :align: center
@@ -44,8 +44,8 @@ Define object layer from menu bar
 Define object layer from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object/s`_ which layer level should be defined.
-    2. Select the corresponding icon from `toolbar`_ (icons from above table) to realize the desired action.
+1. `Select the object/s`_ which layer level should be defined.
+2. Select the corresponding icon from `toolbar`_ (icons from above table) to realize the desired action.
 
 .. note::
 
@@ -54,8 +54,8 @@ Define object layer from toolbar
 Define object layer by right click
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object/s`_ which layer level should be defined.
-    2. Right click and select the desired layer definition action.
+1. `Select the object/s`_ which layer level should be defined.
+2. Right click and select the desired layer definition action.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_right_click.png
    :align: center
@@ -67,8 +67,8 @@ Define object layer using keyboard shortcut
 
 As many other tools, QElectroTech is an applications which allows using keyboard shortcut.
 
-    1. `Select the object/s`_ which layer level should be defined.
-    2. Press the corresponding keyboard shortcut (keyboard shortcut from above table) to realize the desired action.
+1. `Select the object/s`_ which layer level should be defined.
+2. Press the corresponding keyboard shortcut (keyboard shortcut from above table) to realize the desired action.
 
 .. seealso::
 
