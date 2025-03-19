@@ -22,7 +22,7 @@ Developer Manual
     .. grid-item-card:: Building QET from source
         :img-top: ../_external/_images/_site-assets/developer/ico/22x22/build.svg
         :img-alt: Image showing QelectroTech's interface wizard
-        :link: interface/index
+        :link: developer/build
         :link-type: ref
     
 
