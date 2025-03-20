@@ -69,7 +69,7 @@ QElectroTech allows customizing different text properties:
 
     :Color:
 
-        The text color can be choosed from RGB color code database.
+        The text color can be chosen from RGB color code database.
 
 .. _element: ../../element/index.html
 .. _workspace: ../../element/element_editor/interface/workspace.html
