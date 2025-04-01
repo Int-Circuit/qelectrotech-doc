@@ -3,12 +3,14 @@ name: Deploy Sphinx documentation to Pages
 on:
   push:
   pull_request:
-    branches: [master] # branch to trigger deployment
+  # branch to trigger deployment
+    branches: [master,
+    #TESTING, REMOVE BEFORE MERGE            
+              MR-next ] 
 
 
 jobs:
   pages:
-    needs: [doxygen]
     runs-on: ubuntu-20.04
     environment:
       name: github-pages
