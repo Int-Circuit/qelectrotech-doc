@@ -6,30 +6,6 @@ on:
     branches: [master] # branch to trigger deployment
 
 jobs:
-  doxygen:
-    runs-on: ubuntu-24.04
-    steps:
-    - uses: actions/checkout@v3
-    - name: Get latest code
-      run: |
-        rm -rf qelectrotech-source-mirror
-        # test only, remove when merging
-        git clone --recursive https://github.com/Int-Circuit/qelectrotech-source-mirror.git
-        cd qelectrotech-source-mirror
-        git fetch
-        git switch ci/cd
-        cd ..
-
-        # git clone --recursive https://github.com/qelectrotech/qelectrotech-source-mirror.git
-    - uses: mattnotmitt/doxygen-action@v1.9.5
-      with:
-        working-directory: 'qelectrotech-source-mirror/'
-        doxyfile-path: 'Doxyfile'
-        enable-latex: true
-    - uses: actions/upload-artifact@v4
-      with:
-       name: XML_Doxyfile 
-       path: qelectrotech-source-mirror/doc/xml/
   pages:
     needs: [doxygen]
     runs-on: ubuntu-20.04
