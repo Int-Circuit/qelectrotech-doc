@@ -20,7 +20,7 @@ jobs:
     - name: REUSE SPDX SBOM
       uses: fsfe/reuse-action@v6
       with:
-          args: -c="Qelectrotech Team <license@qelectrotech.org>" -l GPL-2.0-only -y 2018-Present --merge-copyrights --skip-unrecognised -r source/developer/* source/users/* source/index.rst source/doc_changelog.rst 
+          args: --copyright="Qelectrotech Team <license@qelectrotech.org>" --license="GPL-2.0-only --year=2018-Present --merge-copyrights --skip-unrecognised -r source/developer/* source/users/* source/index.rst source/doc_changelog.rst 
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v8
       with:
@@ -39,4 +39,5 @@ jobs:
           cicd
         delete-branch: true
         add-paths: source/**/*.rst
+
 
